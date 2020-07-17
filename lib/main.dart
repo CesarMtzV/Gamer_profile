@@ -1,20 +1,15 @@
 import 'package:flutter/material.dart';
-import './screens/authenticate/welcome_screen.dart';
+import 'package:gamer_profile/screens/wrapper.dart';
 
 void main() {
   runApp(GamerProfile());
 }
 
-class GamerProfile extends StatefulWidget {
-  @override
-  _GamerProfileState createState() => _GamerProfileState();
-}
-
-class _GamerProfileState extends State<GamerProfile> {
+class GamerProfile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Welcome(),
+      home: Wrapper(),
     );
   }
 }

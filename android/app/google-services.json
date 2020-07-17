@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "203526123281",
+    "firebase_url": "https://gamer-profile-1812c.firebaseio.com",
+    "project_id": "gamer-profile-1812c",
+    "storage_bucket": "gamer-profile-1812c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203526123281:android:3aeafddc14e3a1d63666b0",
+        "android_client_info": {
+          "package_name": "com.turulu.gamer_profile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203526123281-nint7f3tnn3bfjqjnrj04fbm6n6c272k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd_xd-Q4gHxue90Xevg2luF6cMVp14XYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203526123281-nint7f3tnn3bfjqjnrj04fbm6n6c272k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
